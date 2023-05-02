@@ -2739,7 +2739,7 @@ footer.site-footer.blue-bg .single-footer-widget ul.links-list li a:hover {
   font-weight: 500;
 }
 .btc-static-ticker .single-btc-static-ticker span.stats {
-  color: #50C878;
+  color:linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(6,159,39,1) 100%);
   font-size: 11px;
 }
 
@@ -2764,7 +2764,7 @@ footer.site-footer.blue-bg .single-footer-widget ul.links-list li a:hover {
   right: 20px;
   color: #fff;
   text-align: center;
-  background: #50C878;
+  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(6,159,39,1) 100%);
 }
 .video-box-style-one .video-box-content {
   padding-left: 50px;
@@ -2802,7 +2802,7 @@ footer.site-footer.blue-bg .single-footer-widget ul.links-list li a:hover {
   margin-top: 15px;
 }
 .video-box-style-one .video-box-content ul.list-items li i {
-  color: #50C878;
+  color:linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(6,159,39,1) 100%);
   font-size: 16px;
   position: absolute;
   top: 50%;
@@ -2856,7 +2856,7 @@ footer.site-footer.blue-bg .single-footer-widget ul.links-list li a:hover {
   padding-left: 5px;
 }
 .token-distribution .token-list li .yellow {
-  color:#50C878;
+  color:linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(6,159,39,1) 100%);
 }
 .token-distribution .token-list li .pink {
   color: #ff505a;
@@ -2874,7 +2874,7 @@ footer.site-footer.blue-bg .single-footer-widget ul.links-list li a:hover {
   color: #35afce;
 }
 .token-distribution .token-list li .green {
-  color: #2cd498;
+  color:linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(6,159,39,1) 100%);
 }
 .token-distribution .graph {
   position: relative;
@@ -2897,7 +2897,7 @@ footer.site-footer.blue-bg .single-footer-widget ul.links-list li a:hover {
   border-top-color: #50C878;
 }
 .token-distribution .graph a.dot1:hover i {
-  color: #50C878;
+  color:linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(6,159,39,1) 100%);
 }
 .token-distribution .graph > a.dot3 + .tooltip > .tooltip-inner {
   background-color: #ff505a;
@@ -2951,7 +2951,7 @@ footer.site-footer.blue-bg .single-footer-widget ul.links-list li a:hover {
   border-top-color: #0fc383;
 }
 .token-distribution .graph a.dot2:hover i {
-  color: #0fc383;
+  color:linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(6,159,39,1) 100%);
 }
 .token-distribution .dot1 {
   position: absolute;
@@ -3065,7 +3065,7 @@ footer.site-footer.blue-bg .single-footer-widget ul.links-list li a:hover {
 }
 .timeline-style-one .tab-title-list ul li a:hover {
   color: #171717;
-  background: #50C878;
+  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(6,159,39,1) 100%);
 }
 .timeline-style-one .tab-title-list ul li.active a {
   color: #171717;
@@ -3313,7 +3313,7 @@ form.contact-form button.thm-btn {
 }
 
 .contact-sidebar {
-  background: #50C878;
+  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(6,159,39,1) 100%);
   padding: 51.5px 55px;
 }
 .contact-sidebar .single-contact-info + .single-contact-info {
@@ -3379,7 +3379,7 @@ form.contact-form button.thm-btn {
   vertical-align: middle;
 }
 .coin-statics .single-coin-statics .coin-info-box .icon-box .inner {
-  background: #50C878;
+  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(6,159,39,1) 100%);
   width: 73px;
   height: 73px;
   border-radius: 50%;
@@ -3396,7 +3396,7 @@ form.contact-form button.thm-btn {
   font-weight: 600;
 }
 .coin-statics .single-coin-statics .coin-info-box .text-box h3 span {
-  color: #50C878;
+  color:  linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(6,159,39,1) 100%);
   font-size: 14px;
 }
 .coin-statics .single-coin-statics .coin-info-box .text-box p {
@@ -3421,7 +3421,7 @@ form.contact-form button.thm-btn {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(23, 23, 23, 0.85);
+  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(6,159,39,1) 100%);
   opacity: 0;
   -webkit-transition: all .4s ease;
   transition: all .4s ease;
@@ -3467,7 +3467,7 @@ form.contact-form button.thm-btn {
   margin-top: 30px;
 }
 .case-study-style-one .single-case-study-one .text-box h3:hover {
-  color: #50C878;
+  color: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(6,159,39,1) 100%, rgba(255,255,255,1) 100%);
 }
 .case-study-style-one .single-case-study-one .text-box p {
   margin: 0;
@@ -3497,7 +3497,7 @@ form.contact-form button.thm-btn {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(23, 23, 23, 0.85);
+  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(6,159,39,1) 100%);
   opacity: 0;
   -webkit-transition: all .4s ease;
   transition: all .4s ease;
@@ -3546,7 +3546,7 @@ form.contact-form button.thm-btn {
   transition: all .4s ease;
 }
 .services-style-one .single-service-style-one .text-box h3:hover {
-  color: #50C878;
+  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(6,159,39,1) 100%);
 }
 .services-style-one .single-service-style-one .text-box p {
   margin-top: 30px;
@@ -3557,7 +3557,7 @@ form.contact-form button.thm-btn {
   color: #171717;
 }
 .services-style-one.white-bg .single-service-style-one .text-box h3:hover {
-  color: #50C878;
+  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(6,159,39,1) 100%);
 }
 
 .impact-of-bitcoin .title-box h3,
@@ -3570,7 +3570,7 @@ form.contact-form button.thm-btn {
 }
 .impact-of-bitcoin .title-box h3 {
   font-size: 40px;
-  color: #181818;
+  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(6,159,39,1) 100%);
   font-weight: 600;
   margin-bottom: 30px;
 }
@@ -3588,7 +3588,7 @@ form.contact-form button.thm-btn {
   display: inline-block;
   vertical-align: middle;
   font-size: 14px;
-  color: #181818;
+  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(6,159,39,1) 100%);
   font-weight: 600;
   position: relative;
   padding-left: 43px;
@@ -3656,7 +3656,7 @@ form.contact-form button.thm-btn {
   margin-top: 15px;
 }
 .distributed-currency .distributed-currency-content ul.list-items li i {
-  color: #50C878;
+  color: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(6,159,39,1) 100%, rgba(255,255,255,1) 100%);
   font-size: 16px;
   position: absolute;
   top: 50%;
@@ -3682,7 +3682,7 @@ form.contact-form button.thm-btn {
   width: 62px;
 }
 .single-service-features-style-one .icon-box i {
-  color: #50C878;
+  color: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(6,159,39,1) 100%, rgba(255,255,255,1) 100%);
   font-size: 62px;
 }
 .single-service-features-style-one .text-box {
@@ -3706,7 +3706,7 @@ form.contact-form button.thm-btn {
 * 30. exchange styles 
 ***************************/
 .exchange-table .table thead tr th {
-  background: #50C878;
+  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(6,159,39,1) 100%, rgba(255,255,255,1) 100%);
   color: #171717;
   font-size: 16px;
   font-weight: 600;
@@ -3742,7 +3742,7 @@ form.contact-form button.thm-btn {
 }
 
 .white-bg .table thead tr th {
-  background: #50C878;
+  color: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(6,159,39,1) 100%, rgba(255,255,255,1) 100%);
   color: #171717;
 }
 .white-bg .table tbody tr td {
@@ -3770,12 +3770,12 @@ form.contact-form button.thm-btn {
   text-align: center;
 }
 .exchange-btn-box a.thm-btn:hover {
-  background: #50C878;
+  color: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(6,159,39,1) 100%, rgba(255,255,255,1) 100%);
   color: #171717;
 }
 .exchange-btn-box a.thm-btn-style-two {
   padding: 0;
-  background: #50C878;
+  color: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(6,159,39,1) 100%, rgba(255,255,255,1) 100%);
   color: #181818;
   line-height: 53px;
   width: 258px;
@@ -3819,7 +3819,7 @@ form.contact-form button.thm-btn {
   margin-right: 5px;
 }
 .inner-banner .breadcumb a:hover {
-  color: #50C878;
+  color: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(6,159,39,1) 100%, rgba(255,255,255,1) 100%);
 }
 .inner-banner .breadcumb span.page-name {
   color: #171717;
@@ -3837,7 +3837,7 @@ form.contact-form button.thm-btn {
   color: #5D567F;
 }
 .inner-banner.blue-bg .breadcumb span.page-name {
-  color: #50C878;
+  color: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(6,159,39,1) 100%, rgba(255,255,255,1) 100%);
 }
 .inner-banner.blue-bg h3 {
   color: #fff;
@@ -3847,7 +3847,7 @@ form.contact-form button.thm-btn {
 * 32. errpr 404 styles 
 ***************************/
 .error-404 {
-  background: #50C878;
+  color: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(6,159,39,1) 100%, rgba(255,255,255,1) 100%);
   position: relative;
   padding-top: 170px;
   padding-bottom: 220px;
@@ -4002,7 +4002,7 @@ form.contact-form button.thm-btn {
   transition: all .4s ease;
 }
 .sidebar .single-sidebar .single-recent-post .text-box h3:hover {
-  color: #50C878;
+  color: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(6,159,39,1) 100%, rgba(255,255,255,1) 100%);
 }
 .sidebar .single-sidebar .archive-list {
   margin: 0;
@@ -4025,7 +4025,7 @@ form.contact-form button.thm-btn {
   color: #171717;
 }
 .sidebar .single-sidebar .archive-list li a i {
-  color: #50C878;
+  color: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(6,159,39,1) 100%, rgba(255,255,255,1) 100%);
   font-size: 14px;
   position: absolute;
   top: 50%;
