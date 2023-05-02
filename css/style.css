@@ -3706,7 +3706,7 @@ form.contact-form button.thm-btn {
 * 30. exchange styles 
 ***************************/
 .exchange-table .table thead tr th {
-  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(6,159,39,1) 100%, rgba(255,255,255,1) 100%);
+   background: #f0f0f0;
   color: #171717;
   font-size: 16px;
   font-weight: 600;
