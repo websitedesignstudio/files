@@ -133,7 +133,7 @@
     .header-navigation ul.navigation-box > li > ul.sub-menu > li > a .sub-nav-toggler .icon-bar {background-color: #171717}
     .header-navigation .thm-container .navbar-brand {padding: 25px 0;}
     .header-navigation ul.navigation-box > li:hover > a,
-    .header-navigation ul.navigation-box > li.current > a {background: #FBBA15;color: #fff;}
+    .header-navigation ul.navigation-box > li.current > a {background: #3be93b;color: #fff;}
     .header-navigation .thm-container {padding-right: 15px;}
     .header-navigation .thm-container .navbar-header {padding-right: 300px;}
     .header-navigation .thm-container .right-side-box {top:30px;-webkit-transform: translateX(0); -ms-transform: translateX(0); -o-transform: translateX(0); transform: translateX(0);right: 30px;} 

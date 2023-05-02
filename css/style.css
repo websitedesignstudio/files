@@ -722,7 +722,7 @@ body.active-preloader-ovh {
 
 .slider-home-one {
   position: relative;
-  background-color:  rgba(6,159,39,1) ;
+  background-color: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(6,159,39,1) 100%);
 }
 .slider-home-one #particles-js {
   position: absolute;
@@ -1207,7 +1207,7 @@ body.active-preloader-ovh {
 .hidden-sidebar .sidebar-content .social a {
   color: #707070;
   font-size: 18px;
-  -webkit-transition: all .8s ease;
+  -webkit-transition: all .4s ease;
   transition: all .4s ease;
 }
 .hidden-sidebar .sidebar-content .social a + a {
@@ -1435,7 +1435,7 @@ body.active-preloader-ovh {
 }
 .fun-fact-style-one.yellow-bg {
   position: relative;
-  background: #50C878 url(../img/background-1-1.jpg) center center no-repeat fixed;
+  background: linear-gradient(149deg, rgba(255,255,255,1) 0%, rgba(247,247,247,1) 0%, rgba(8,131,35,1) 100%); url(../img/background-1-1.jpg) center center no-repeat fixed;
 }
 .fun-fact-style-one.yellow-bg:before {
   content: '';
