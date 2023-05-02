@@ -113,7 +113,7 @@ a:active {
 }
 
 .dark-bg {
-  background: #171717;
+  background: #0a0a0a;
 }
 
 .light-dark-bg {
@@ -133,7 +133,7 @@ a:active {
   outline: none;
   display: inline-block;
   vertical-align: middle;
-  background: #171717;
+  background: #070707;
   color: #fff;
   font-size: 14px;
   font-weight: 600;
@@ -144,7 +144,7 @@ a:active {
 }
 .thm-btn:hover {
   background: #fff;
-  color: #171717;
+  color: #070707;
 }
 .thm-btn.yellow-bg-hvr:hover {
   background: #F9B81F;
@@ -229,7 +229,7 @@ a:active {
   width: 50px;
   height: 50px;
   text-align: center;
-  background: #F9B81F;
+  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(6,159,39,1) 100%);
   color: #fff;
   font-size: 17px;
   line-height: 50px;
@@ -243,7 +243,7 @@ a:active {
 }
 .scroll-to-top:hover {
   background: #171717;
-  color: #F9B81F;
+  color:linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(6,159,39,1) 100%);
 }
 
 /*
@@ -258,7 +258,7 @@ body.active-preloader-ovh {
 }
 
 .preloader {
-  background-color: #F9B81F;
+  background-color:linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(6,159,39,1) 100%);
   height: 100%;
   left: 0;
   position: fixed;
@@ -722,7 +722,7 @@ body.active-preloader-ovh {
 
 .slider-home-one {
   position: relative;
-  background-color: #F9B81F;
+  background-color:  rgba(6,159,39,1) ;
 }
 .slider-home-one #particles-js {
   position: absolute;
@@ -1207,7 +1207,7 @@ body.active-preloader-ovh {
 .hidden-sidebar .sidebar-content .social a {
   color: #707070;
   font-size: 18px;
-  -webkit-transition: all .4s ease;
+  -webkit-transition: all .8s ease;
   transition: all .4s ease;
 }
 .hidden-sidebar .sidebar-content .social a + a {
